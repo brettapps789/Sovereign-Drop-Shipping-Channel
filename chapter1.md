@@ -11,4 +11,4 @@ In 2026, the greatest friction in commerce is the gap between digital architectu
 
 ## Closing the Loop
 
-In this chapter, we walk through the setup of your first supplier connection. You will learn how to configure the  to trigger the , transforming your empire into a physical production house.
+In this chapter, we walk through the setup of your first supplier connection. You will learn how to configure the `StripeSovereignServer` to trigger the `DropShippingExpertServer`, transforming your empire into a physical production house.
